@@ -41,8 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel)](https://github.com/HermannJoel/github-readme-stats)
 
-
 </details>
+
 [twitter]: https://twitter.com/hj_ngayap
 [linkedin]: https://www.linkedin.com/in/hermann-joel-ngayap-signin-5b35b513b/
 
