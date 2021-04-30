@@ -1,7 +1,5 @@
 ### Hi there, I'm Hermann Joel 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hj_ngayap?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2hj_ngayap&screen_name=hj_ngayap)
-
 ## Financial markets and data Science Enthousiast!!
 
 - 🎓 I’m currently doing a MSc in Banking and Finance specialization in Capital Markets and Data Science
