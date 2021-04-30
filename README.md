@@ -1,6 +1,6 @@
 ### Hi there, I'm Hermann Joel 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hj_ngayap?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2hj_ngayap&screen_name=HermannJoel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hj_ngayap?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2hj_ngayap&screen_name=hj_ngayap)
 
 ## Financial markets and data Science Enthousiast!!
 
@@ -38,8 +38,11 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="HermannJoel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HermannJoel&show_icons=true&hide_border=true" />
 
-</details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel)](https://github.com/HermannJoel/github-readme-stats)
+
+
+</details>
 [twitter]: https://twitter.com/hj_ngayap
 [linkedin]: https://www.linkedin.com/in/hermann-joel-ngayap-signin-5b35b513b/
 
