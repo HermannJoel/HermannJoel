@@ -38,6 +38,7 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="HermannJoel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HermannJoel&show_icons=true&hide_border=true" />
 
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel)](https://github.com/HermannJoel/github-readme-stats)
 
