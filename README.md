@@ -4,8 +4,7 @@
 
 - 🎓 I’m currently doing a MSc in Banking and Finance specialization in Capital Markets and Data Science
 - 📍 Winterthur
-- 📚 Zurich School of Applied Sciences (ZHAW) School of Management and Law (SML) 
-- 👯 I’m looking to collaborate with other content creators
+- 📚 Zurich School of Applied Sciences (ZHAW) School of Management and Law(SML)
 - 🎯 2021 Goals: Graduate/Contribute more to Open Source projects/Get a job in finance
 - I love ⚽Play and watch football/basketball🏀/Cycling🚲
 - PSG fan (ici c'est Paris)
