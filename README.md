@@ -6,8 +6,8 @@
 - 📍 Winterthur
 - 📚 Zurich School of Applied Sciences (ZHAW) School of Management and Law(SML)
 - 🎯 2021 Goals: Graduate/Contribute more to Open Source projects/Get a job in finance
-- I love ⚽Play and watch football/basketball🏀/Cycling🚲
-- PSG fan (ici c'est Paris)
+- I love to play and watch football⚽/basketball🏀/Cycling🚲
+- PSG/Mancity fan
 
 ### Connect with me:
 [<img align="left" alt="hj_ngayap | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
