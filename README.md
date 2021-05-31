@@ -38,11 +38,7 @@
 
 <br />
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel&langs_count=8)](https://github.com/HermannJoel/github-readme-stats)
-
----
 
 </details>
 
