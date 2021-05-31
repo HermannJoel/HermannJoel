@@ -30,17 +30,24 @@
 <img align="left" alt="Tableau" width="70" src="/Images/tableau.jpg" />
 
 <br />
-<br />
+
 ---
+
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="HermannJoel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HermannJoel&show_icons=true&hide_border=true" />
 
 <br />
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel&langs_count=8)](https://github.com/HermannJoel/github-readme-stats)
+
+---
 
 </details>
 
 [twitter]: https://twitter.com/hj_ngayap
 [linkedin]: https://www.linkedin.com/in/hermann-joel-ngayap-signin-5b35b513b/
+
+---
 
