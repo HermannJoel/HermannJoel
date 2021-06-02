@@ -1,4 +1,4 @@
-### I'm Hermann Joel 👋
+### I'm Hermann Joel
 
 ## Financial markets and data Science Enthousiast!!
 
