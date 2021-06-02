@@ -1,4 +1,4 @@
-### Hi there, I'm Hermann Joel 👋
+### I'm Hermann Joel 👋
 
 ## Financial markets and data Science Enthousiast!!
 
@@ -38,7 +38,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel&langs_count=6)](https://github.com/HermannJoel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel&langs_count=5)](https://github.com/HermannJoel/github-readme-stats)
 
 </details>
 
