@@ -2,9 +2,9 @@
 
 ## Financial markets and data Science Enthousiast!!
 
-- 🎓 I’m currently doing a MSc in Banking and Finance specialization in Capital Markets and Data Science & a Master 2 in Computer with major in data Mining
+- 🎓 I’m currently doing a MSc in Banking and Finance specialization in Capital Markets and Data Science & Master 2 in Computer with major in data Mining
 - 📍 Lyon (St Priest)/Winterthur
-- 📚 Universite Lyon Lumiere 2 and Zurich School of Applied Sciences (ZHAW) School of Management and Law(SML)
+- 📚 University Lyon Lumiere 2 and Zurich School of Applied Sciences (ZHAW) School of Management and Law(SML)
 - 🎯 2021 Goals: Graduate/Contribute more to Open Source projects/Get a job in finance
 - I love to play and watch football⚽/basketball🏀/Cycling🚲
 - PSG/Mancity fan
