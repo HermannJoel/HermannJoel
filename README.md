@@ -2,12 +2,9 @@
 
 ## Financial markets and data Science Enthousiast!!
 
-- 🎓 I’m currently doing a MSc in Banking and Finance specialization in Capital Markets and Data Science & Master 2 in Computer with major in data Mining
-- 📍 Lyon (St Priest)/Winterthur
-- 📚 University Lyon Lumiere 2 and Zurich School of Applied Sciences (ZHAW) School of Management and Law(SML)
-- 🎯 2021 Goals: Graduate/Contribute more to Open Source projects/Get a job in finance
-- I love to play and watch football⚽/basketball🏀/Cycling🚲
-- PSG/Mancity fan
+- MSc in Banking and Finance specialization in Capital Markets and Data Science & Master 2 in Computer with major in data Mining
+- University Lyon Lumiere 2 and Zurich School of Applied Sciences (ZHAW) School of Management and Law(SML)
+
 
 ### Connect with me:
 [<img align="left" alt="hj_ngayap | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -21,13 +18,11 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="VBA" width="40" height="40" src="/Images/Excel-VBA.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="SAS" width="70" src="/Images/sas.jpeg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="PowerBi" width="80" height="40" src="/Images/power%20BI.jpg" />
-<img align="left" alt="Tableau" width="70" src="/Images/tableau.jpg" />
 
 <br />
 
