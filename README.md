@@ -1,5 +1,3 @@
-### I'm Hermann Joel
-
 ## Financial markets and data Science Enthousiast!!
 
 - MSc in Banking and Finance specialization in Capital Markets and Data Science & Master 2 in Computer with major in data Mining
