@@ -20,6 +20,9 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="PowerBi" width="80" height="40" src="/Images/power%20BI.jpg" />
 <img align="left" alt="Tableau" width="80" height="65" src="/Images/Tableau.png" />
+<img align="left" alt="SSAS" width="80" height="65" src="/Images/ssas.png" />
+<img align="left" alt="SSIS" width="80" height="65" src="/Images/ssis.png" />
+<img align="left" alt="SSRS" width="80" height="65" src="/Images/ssrs.jpg" />
 <br />
 
 ---
