@@ -35,7 +35,7 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel&langs_count=5)](https://github.com/HermannJoel/github-readme-stats)
-
+![HermannJoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermannJoel&show_icons=true&theme=transparent)
 </details>
 
 [twitter]: https://twitter.com/hj_ngayap
