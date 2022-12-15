@@ -1,4 +1,4 @@
-## Financial markets and data Science Enthousiast!!
+[comment]: <> ## Financial markets and data Science Enthousiast!!
 
 - MSc in Banking and Finance specialization in Capital Markets and Data Science & Master 2 in Computer with major in data Mining
 - University Lyon Lumiere 2 and Zurich School of Applied Sciences (ZHAW) School of Management and Law(SML)
