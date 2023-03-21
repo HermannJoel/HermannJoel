@@ -29,7 +29,6 @@
 <img align="left" alt="HermannJoel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HermannJoel&show_icons=true&hide_border=true" />
 <br />
 
-#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel&langs_count=5)](https://github.com/HermannJoel/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermannJoel&layout=compact)](https://github.com/HermannJoel/github-readme-stats)
 </details>
 
