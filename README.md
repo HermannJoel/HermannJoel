@@ -18,9 +18,6 @@
 <img align="left" alt="Plotly-Dash" width="85" height="70" src="/Images/plotlydash.png" />  
 <img align="left" alt="SQLSERVER" width="85" height="70" src="/Images/sqlserver.jpg" />
 <img align="left" alt="Tableau" width="80" height="65" src="/Images/Tableau.png" />
-<img align="left" alt="SSAS" width="85" height="70" src="/Images/ssas.png" />
-<img align="left" alt="SSIS" width="85" height="70" src="/Images/ssis.png" />
-<img align="left" alt="SSRS" width="85" height="70" src="/Images/ssrs.jpg" />
 <br />
 
 ---
